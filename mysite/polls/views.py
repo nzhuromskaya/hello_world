@@ -5,5 +5,7 @@ def index(request):
     return HttpResponse("Hello, world. This is Sean's message.")
     return HttpResponse("Hello, world. This is Nataliya's message.")
     return HttpResponse("Hello, world. This is Adele's message.")
+    return HttpResponse("Hello, world. This is Uy's message.")
+
 
 # Create your views here.
